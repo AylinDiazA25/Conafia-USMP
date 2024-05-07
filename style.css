@@ -2072,7 +2072,7 @@ body{
 	background: #fff;
 	z-index: 99;
 	position: relative;
-	padding: 30px;
+	padding: 22px;
 	left: 0;
 	z-index: 0;
 }
@@ -4152,8 +4152,14 @@ body{
 }
 .footer .single-footer .time-sidual li span{
 	display:inline-block;
+	float: right;
+}
+
+.news-content .time-sidual li span{
+	display:inline-block;
 	float:right;
 }
+
 .footer .single-footer .day-head .time {
 	font-weight: 400;
 	float: right;
