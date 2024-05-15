@@ -6,7 +6,7 @@ $finalMessage = document.getElementById('mensaje')
 
 
 // Define la fecha de finalización de la cuenta regresiva (año, mes (base 0), día, hora, minuto, segundo)
-var countdownDate = new Date("Jun 17, 2024 00:00:00").getTime();
+var countdownDate = new Date("Aug 19, 2024 00:00:00").getTime();
 
 // Actualiza la cuenta regresiva cada segundo
 var countdownFunction = setInterval(function() {
