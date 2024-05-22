@@ -74,9 +74,10 @@ body{
 	font-size: 13px;
 	width: 100%;
 	text-transform: capitalize;
+	background: linear-gradient(90deg, rgba(144,67,144,1) 24%, rgba(255,0,0,1) 96%);
 }
 .pro-features .button .btn:before {
-		background: linear-gradient(0deg, rgba(40, 65, 26, 1) 0%, rgba(85, 213, 40, 1) 100%);
+	background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(144,67,144,1) 100%);
 }
 .pro-features li {
 	color: #333;
@@ -93,7 +94,7 @@ body{
 	line-height: 45px;
 	font-size: 14px;
 	border-radius: 5px 0 0 5px;
-	background: linear-gradient(0deg, rgba(40,65,26,1) 0%, rgba(85,213,40,1) 100%);
+	background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(144,67,144,1) 100%);
 	text-align: center;
 	color: #fff;
 	top: 0;
@@ -626,7 +627,7 @@ body{
 	line-height: 42px;
 }
 .slider .single-slider h1 span {
-    background: linear-gradient(0deg, rgba(40, 65, 26, 1) 0%, rgba(85, 213, 40, 1) 100%);
+	background: linear-gradient(90deg, rgba(11,121,9,1) 47%, rgba(171,159,6,1) 69%, rgba(255,242,42,1) 100%);
     -webkit-background-clip: text; /* Clip para que el degradado solo afecte al texto */
     -webkit-text-fill-color: transparent; /* Hace el texto transparente para mostrar el degradado */
 }
